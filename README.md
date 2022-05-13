@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning but... <br>
 :briefcase: I’m looking for an opportunities also <br>
 🌐 You can visit my <a href="https://christianodc7.github.io/">Portfolio here</a> <br><br>
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html)](https://github.com/ChristianoDc7)
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack)](https://github.com/ChristianoDc7)
 <br><br>
 Don't hesitate to contact me if your are interested about my work : <br>
 :email: christianod97@gmail.com <br>
