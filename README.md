@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  Most used languages    | My contribution on github |
  -----------------------| --------------------------|
-[![Christiano's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!Christiano's github stats](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=merko)](https://github.com/ChristianoDc7) |
+[![Christiano's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&show_icons=true&layout=compact&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!Christiano's github stats](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=merko)](https://github.com/ChristianoDc7) |
 
 <br>
 If you wanna get in touch with me, please find my contact details below : <br>
