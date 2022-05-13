@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br><br>
 Don't hesitate to contact me if your are interested about my work : <br>
 :email: christianod97@gmail.com <br>
-:phone: # +261336134752
+:phone: +261336134752
