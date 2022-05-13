@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌐 You can visit my <a href="https://christianodc7.github.io/">Portfolio here</a> <br><br>
 My contribution on github                                                                                                                                                | Most used languages |
 --------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------- |
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) |
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=dark
 <br><br>
 Don't hesitate to contact me if you wanna get in touch with me : <br>
 :email: christianod97@gmail.com <br>
