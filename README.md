@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 :briefcase: I’m looking for an opportunities also <br>
 🌐 You can visit my <a href="https://christianodc7.github.io/">Portfolio here</a> <br><br>
 
- Most used languages    | My contribution on github |
+ Languages I've used the most | My github activity |
  -----------------------| --------------------------|
 [![Christiano's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&show_icons=true&layout=compact&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!Christiano's github stats](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=merko)](https://github.com/ChristianoDc7) |
 
