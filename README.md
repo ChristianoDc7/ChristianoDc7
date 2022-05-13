@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 
 <br>
 If you wanna get in touch with me, please find my contact details below : <br>
-:email: christianod97@gmail.com <br>
+:email: christianod97@gmail.com
+<br>
 :phone: +261336134752
