@@ -22,6 +22,6 @@ Here are some ideas to get you started:
  -----------------------| --------------------------|
 [![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!global](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=dark)](https://github.com/ChristianoDc7) |
 
-Don't hesitate to contact me if you wanna get in touch with me : <br>
+If you wanna get in touch with me, please find my contact details below : <br>
 :email: christianod97@gmail.com <br>
 :phone: +261336134752
