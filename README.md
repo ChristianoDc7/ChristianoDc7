@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 🌱 I’m currently learning but... <br>
 :briefcase: I’m looking for an opportunities also <br>
 🌐 You can visit my <a href="https://christianodc7.github.io/">Portfolio here</a> <br><br>
+
  Most used languages    | My contribution on github |
  -----------------------| --------------------------|
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!global](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=radical)](https://github.com/ChristianoDc7) |
+[![Christiano's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianoDc7&hide=css,html,hack&langs_count=20)](https://github.com/ChristianoDc7) | [![!Christiano's github stats](https://github-readme-stats.vercel.app/api?username=christianodc7&show_icons=true&theme=radical)](https://github.com/ChristianoDc7) |
 
+<br>
 If you wanna get in touch with me, please find my contact details below : <br>
 :email: christianod97@gmail.com <br>
 :phone: +261336134752
