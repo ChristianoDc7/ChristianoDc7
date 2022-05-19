@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning but... <br>
 :briefcase: I’m looking for an opportunities also <br>
-🌐 You can visit my <a href="https://christiano-resume.vercel.app/">Portfolio here</a> <br><br>
+🌐 You can visit my <a href="https://christiano-resume.vercel.app/" target="_blank">Portfolio here</a> <br><br>
 
  Languages I've used the most | My github activity |
  -----------------------| --------------------------|
